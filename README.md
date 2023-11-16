@@ -1,4 +1,4 @@
-# Bayes-Classifier
+# EX-02 Bayes-Classifier
 ## Aim:
 To Construct a Bayes Classifier to classiy iris dataset using Python.
 ## Algorithm:
@@ -22,6 +22,10 @@ Output:
 7. Evaluate the classifier's accuracy using the accuracy_score function from scikit-learn.
 
 ## Program:
+```
+DEVELOPED BY: S. SAHITHYA
+              212221040140
+```
 ```
 import numpy as np
 from sklearn.datasets import load_iris 
